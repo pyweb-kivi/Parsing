@@ -21,7 +21,7 @@ def write_csv(data):
         writer = csv.writer(f)
 
         writer.writerow( (data['img'],
-						  data['url']) )
+			  data['url']) )
 
 '''
 def status_code(url):
