@@ -2,12 +2,12 @@
 
 Перечень проектов
 ---
-## [leemarpet.com](/pyweb-kivi/Parsing/tree/master/leemarpet)
+## [leemarpet.com](/leemarpet)
 Входные данные (баркод товара) содержатся в файле 'test.txt'.
 Необходимо по баркоду найти товар и получить ссылку на картинку (макс. разрешения) товара.
 Результат сохраняется в 'имя_файла'.csv
 
-## [it.kompass.com](/pyweb-kivi/Parsing/tree/master/kompass)
+## [it.kompass.com](/kompass)
 Входные данные - поисковый запрос (url).
 Необходимо получить:
 * имя компании
